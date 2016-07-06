@@ -1,0 +1,29 @@
+body {
+	font-family: helvetica, arial, sans-serif;
+	font-weight: 300;
+	line-height: 1.7em;
+	margin: 1.4em auto;
+	max-width: 100ex;
+	position: relative;
+}
+h1 {
+	font-family: 'Source Sans Pro';
+	font-weight: 200;
+	font-size: 2.5em;
+	text-align: center;
+	margin: 1.6em auto;
+}
+h2, h3, h4 {
+	font-weight: 400;
+	margin-top: 1.5em;
+}
+h2 {
+	margin-top: 2.5em;
+}
+b {
+	font-weight: 600;
+}
+iframe {
+	height: 1550px;
+	width: 100%;
+}
